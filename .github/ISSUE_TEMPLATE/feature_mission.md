@@ -1,6 +1,6 @@
 ---
-name: feature_template
-about: Suggest an idea for this project
+name: feature_mission
+about: 미션 작성 템플릿
 title: "[FEAT] Node N주차 미션 -"
 labels: ''
 assignees: SeyeonJang
